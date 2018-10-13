@@ -8,7 +8,6 @@
 #import <UIKit/UIKit.h>
 #import <CoreLocation/CoreLocation.h>
 #import <GoogleMaps/GoogleMaps.h>
-#import <GoogleMaps/GoogleMaps/GMSIndoorDisplay.h>
 
 @class MapViewPlugin;
 @class MapAnnotation;
